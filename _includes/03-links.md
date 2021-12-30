@@ -1,2 +1,1 @@
-GitHub link
-https://github.com/LuminiNanayakkara
+[text](https://example.com)
